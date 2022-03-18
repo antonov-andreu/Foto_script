@@ -14,3 +14,5 @@
 ### Автор
 andreu-antonov@yandex.ru
 
+pip install --upgrade pip
+
